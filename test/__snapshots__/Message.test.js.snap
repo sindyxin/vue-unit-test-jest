@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Message.test.js Properties has the expected html structure 1`] = `
+<li
+  class="message"
+  style="margin-top: 10px;"
+>
+  hey
+</li>
+`;
